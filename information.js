@@ -1,8 +1,8 @@
-const student = {
-    myName: "Jack",
-    campus: "WCS",
-}
+const myName = 'Jack';
+const campus = 'WCS of Lyon';
+
 
 module.exports = {
-student: student,
+    myName: myName,
+    campus: campus,
 }
